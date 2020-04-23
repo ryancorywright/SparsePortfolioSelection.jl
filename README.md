@@ -36,10 +36,7 @@ If you use SparsePortfolioSelection.jl, we ask that you please cite the followin
 }
 ```
 
-Another paper which could potentially be useful to look at is the following [paper](https://ryancorywright.github.io/pdf/UnifiedFrameworkforMIO.pdf)
-
-
-[![Build Status](https://travis-ci.org/ryancorywright/SparsePortfolioSelection.jl.svg?branch=master)](https://travis-ci.org/ryancorywright/SparsePortfolioSelection.jl)
+Another paper which could potentially be useful to look at is the following [paper](https://ryancorywright.github.io/pdf/UnifiedFrameworkforMIO.pdf), which generalizes this approach to a broader class of MIOs with logical constraints.
 
 ## Related packages:
 
