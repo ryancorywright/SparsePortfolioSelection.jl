@@ -14,7 +14,7 @@ I gave a high-level talk on this package at INFORMS 2018. The slides are availab
 
 In order to run this software, you must install a recent version of Julia from http://julialang.org/downloads/.  The most recent version of Julia at the time this code was last tested was Julia 1.2.0.
 
-A number of packages must be installed in Julia before the code can be run.  These packages are DataFrames, and StatsBase.  They can be added by running:
+A number of packages must be installed in Julia before the code can be run. They can be added by running:
 
 `using Pkg' 'Pkg.add("JuMP, MathProgBase, CPLEX, Random, LinearAlgebra, Mosek, JLD, LaTeXStrings, DataFrames, Test, Suppressor, DelimitedFiles, CSV, StatsBase")` 
 
