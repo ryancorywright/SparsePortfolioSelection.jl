@@ -1,0 +1,81 @@
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley1,5,100/sqrt(n),OA,0.167341948,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley1,5,100/sqrt(n),CPLEX Big-M,1.977790117,31639,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley1,5,100/sqrt(n),CPLEX MISOCP,0.032080173,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley2,5,100/sqrt(n),OA,0.00860405,0,4
+beasley2,5,100/sqrt(n),CPLEX Big-M,300.000823,1.97E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley2,5,100/sqrt(n),CPLEX MISOCP,0.109958172,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley3,5,100/sqrt(n),OA,0.014792919,0,8
+beasley3,5,100/sqrt(n),CPLEX Big-M,300.0006101,2.11E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley3,5,100/sqrt(n),CPLEX MISOCP,0.376170158,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley4,5,100/sqrt(n),OA,0.025578022,0,8
+beasley4,5,100/sqrt(n),CPLEX Big-M,300.0002801,1.89E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley4,5,100/sqrt(n),CPLEX MISOCP,0.408227205,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley5,5,100/sqrt(n),CPLEX Big-M,300.0004241,676288,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley5,5,100/sqrt(n),CPLEX MISOCP,11.17077112,9,
+beasley1,10,100/sqrt(n),OA,0.159384012,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley1,10,100/sqrt(n),CPLEX Big-M,1.11005497,16890,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley1,10,100/sqrt(n),CPLEX MISOCP,0.011996031,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley2,10,100/sqrt(n),OA,0.009464025,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley2,10,100/sqrt(n),CPLEX Big-M,300.00086,2.82E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley2,10,100/sqrt(n),CPLEX MISOCP,0.119987011,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley3,10,100/sqrt(n),OA,0.008878946,0,4
+beasley3,10,100/sqrt(n),CPLEX Big-M,300.0003569,2.87E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley3,10,100/sqrt(n),CPLEX MISOCP,0.410750866,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley4,10,100/sqrt(n),OA,0.018090963,0,8
+beasley4,10,100/sqrt(n),CPLEX Big-M,300.0004771,2.46E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley4,10,100/sqrt(n),CPLEX MISOCP,2.737011909,3,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley5,10,100/sqrt(n),OA,0.016055107,0,4
+beasley5,10,100/sqrt(n),CPLEX Big-M,300.000365,926594,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley5,10,100/sqrt(n),CPLEX MISOCP,3.043144941,0,
+beasley1,20,100/sqrt(n),OA,0.143692017,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley1,20,100/sqrt(n),CPLEX Big-M,0.012088776,108,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley1,20,100/sqrt(n),CPLEX MISOCP,0.032783985,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley2,20,100/sqrt(n),OA,0.011027098,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley2,20,100/sqrt(n),CPLEX Big-M,300.0003831,3.15E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley2,20,100/sqrt(n),CPLEX MISOCP,0.28873682,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley3,20,100/sqrt(n),OA,0.016659021,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley3,20,100/sqrt(n),CPLEX Big-M,300.0005651,3.00E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley3,20,100/sqrt(n),CPLEX MISOCP,0.108306885,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley4,20,100/sqrt(n),OA,0.026110888,0,9
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley4,20,100/sqrt(n),CPLEX Big-M,300.0004148,2.45E+06,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley4,20,100/sqrt(n),CPLEX MISOCP,0.381919146,0,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+beasley5,20,100/sqrt(n),OA,0.033867836,0,7
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley5,20,100/sqrt(n),CPLEX Big-M,300.0009751,902096,
+Instance, cardinality, regularizer, method, solvetime, nodecount,
+beasley5,20,100/sqrt(n),CPLEX MISOCP,2.883450985,0,
+beasley5,5,100/sqrt(n),OA,0.152443171,0,9

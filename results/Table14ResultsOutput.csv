@@ -1,0 +1,200 @@
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,10,1000/(n),OA,0.737295151,130,30
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,10,1000/(n),OA Kelley,0.032263994,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,10,1000/(n),OA Kelley 50,0.034958124,0,4
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,10,1000/(n),OA,234.2988091,239505,875
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,10,1000/(n),OA Kelley,57.14027095,45227,193
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,10,1000/(n),OA Kelley 50,78.8795259,38996,196
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,10,1000/(n),OA,245.121547,207244,1195
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,10,1000/(n),OA Kelley,71.95333982,55053,365
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,10,1000/(n),OA Kelley 50,76.641572,30911,249
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,10,1000/(n),OA,600.0062909,442530,1967
+pard200_4,10,1000/(n),OA Kelley 50,228.8815491,135501,760
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,10,1000/(n),OA,600.006156,439940,4965
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,10,1000/(n),OA Kelley,48.86746502,70198,206
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,10,1000/(n),OA Kelley 50,69.71156311,52301,204
+pard200_6,10,1000/(n),OA,600.0068259,311828,4922
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,10,1000/(n),OA Kelley,6.543792009,6382,116
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,10,1000/(n),OA Kelley 50,36.28512192,12372,107
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,10,1000/(n),OA,549.8109059,389009,2542
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,10,1000/(n),OA Kelley,515.5916681,228069,1336
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,10,1000/(n),OA Kelley 50,292.4205618,105853,743
+pard200_8,10,1000/(n),OA,600.0063109,399187,3419
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,10,1000/(n),OA Kelley,2.317863941,1638,46
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,10,1000/(n),OA Kelley 50,20.19211888,1716,45
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,10,1000/(n),OA,589.6823342,576133,1756
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,10,1000/(n),OA Kelley,6.309026003,8746,122
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,10,1000/(n),OA Kelley 50,26.53316092,8290,143
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,10,1000/(n),OA,600.009145,416219,3798
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,10,1000/(n),OA Kelley,288.364553,160308,1070
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,10,1000/(n),OA Kelley 50,421.9660721,192797,1002
+pard200_1,200,1000/(n),OA,600.00227,887423,1386
+pard200_1,200,1000/(n),OA Kelley,600.0074,539900,1070
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,200,1000/(n),OA Kelley 50,600.0027349,369471,675
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,200,1000/(n),OA,600.0022099,995860,823
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,200,1000/(n),OA Kelley,600.0248358,157100,135
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,200,1000/(n),OA Kelley 50,600.0208142,226100,66
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,200,1000/(n),OA,600.0023601,903540,888
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,200,1000/(n),OA Kelley,600.0036352,357179,246
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,200,1000/(n),OA Kelley 50,600.016871,268400,259
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,200,1000/(n),OA,535.103178,913511,1092
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,200,1000/(n),OA Kelley,600.016392,297600,94
+pard200_4,200,1000/(n),OA Kelley 50,529.8283861,212554,94
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,200,1000/(n),OA,600.009371,1.34E+06,1314
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,200,1000/(n),OA Kelley,600.011914,531400,1408
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,200,1000/(n),OA Kelley 50,600.0094512,573200,1358
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,200,1000/(n),OA,600.0017798,1.28E+06,1016
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,200,1000/(n),OA Kelley,600.009068,479900,789
+pard200_6,200,1000/(n),OA Kelley 50,600.015449,557600,580
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,200,1000/(n),OA Kelley,600.0058041,496200,183
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,200,1000/(n),OA Kelley 50,600.0112698,502600,119
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,200,1000/(n),OA,600.003891,1.34E+06,862
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,200,1000/(n),OA Kelley,600.0092099,674300,552
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,200,1000/(n),OA Kelley 50,600.0193191,507900,420
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,200,1000/(n),OA,600.008306,1.26E+06,1941
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,200,1000/(n),OA Kelley,600.0159631,703900,1977
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,200,1000/(n),OA Kelley 50,600.0355859,498000,1970
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,200,1000/(n),OA,600.0188332,974400,1584
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,200,1000/(n),OA Kelley,600.0325499,498100,1513
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,200,1000/(n),OA Kelley 50,600.0083852,313400,1482
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,10,1000/(n),OA Kelley,344.6646121,223707,1053
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,10,1000/(n),OA Kelley 50,193.0408719,135501,760
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,200,1000/(n),OA,600.0021012,1.24E+06,522
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,10,1000/(n),OA,600.01232,371839,3009
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,10,1000/(n),OA Kelley,600.0126638,251900,1383
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,10,1000/(n),OA Kelley 50,600.0184169,171200,1182
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_2,10,1000/(n),OA,17.90591002,29337,444
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_2,10,1000/(n),OA Kelley,0.46894598,105,9
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_2,10,1000/(n),OA Kelley 50,20.22772717,105,7
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_3,10,1000/(n),OA,600.0185978,506200,2114
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_3,10,1000/(n),OA Kelley,600.0171869,348200,1231
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_3,10,1000/(n),OA Kelley 50,600.0209179,202400,1034
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_4,10,1000/(n),OA,600.0121789,373600,2989
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,10,1000/(n),OA,600.0098581,416269,3214
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,10,1000/(n),OA Kelley,600.006928,275500,1395
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,10,1000/(n),OA Kelley 50,600.0108151,207000,1202
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_2,10,1000/(n),OA,13.14460182,29337,444
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_2,10,1000/(n),OA Kelley,0.30203414,105,9
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_2,10,1000/(n),OA Kelley 50,13.63056803,105,7
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_3,10,1000/(n),OA,600.004669,573844,2286
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_3,10,1000/(n),OA Kelley,600.0045171,428715,1385
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_3,10,1000/(n),OA Kelley 50,600.0213211,255900,1133
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_4,10,1000/(n),OA,600.02458,479500,3467
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_4,10,1000/(n),OA Kelley,600.0039542,265161,1928
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_4,10,1000/(n),OA Kelley 50,600.0160708,220900,1992
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_5,10,1000/(n),OA,600.0096269,338804,3596
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_5,10,1000/(n),OA Kelley,600.0172281,241900,2588
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_5,10,1000/(n),OA Kelley 50,600.006685,183702,1910
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_6,10,1000/(n),OA,274.9203351,279172,1381
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_6,10,1000/(n),OA Kelley,177.003521,133468,869
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_6,10,1000/(n),OA Kelley 50,157.0407879,77998,398
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_7,10,1000/(n),OA,600.0072112,251526,3325
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_7,10,1000/(n),OA Kelley,272.154187,174833,862
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_7,10,1000/(n),OA Kelley 50,342.347945,150985,680
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_8,10,1000/(n),OA,600.0098441,509385,2857
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_8,10,1000/(n),OA Kelley,600.021832,314800,2630
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_8,10,1000/(n),OA Kelley 50,600.0205491,201200,2306
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_9,10,1000/(n),OA,600.0066881,506154,3969
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_9,10,1000/(n),OA Kelley,600.0102632,301300,851
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_9,10,1000/(n),OA Kelley 50,600.0049479,204845,1034
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_10,10,1000/(n),OA,600.0101781,452200,3028
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_10,10,1000/(n),OA Kelley,301.7460501,189577,749
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_10,10,1000/(n),OA Kelley 50,419.865932,179051,741
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,400,1000/(n),OA,600.0035069,717732,1000
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,400,1000/(n),OA Kelley,2231.896674,191914,674Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard400_1,400,1000/(n),OA Kelley 50,43.46373414993286,14293.0,269

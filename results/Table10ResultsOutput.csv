@@ -1,0 +1,304 @@
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,6,1000/(n),OA,0.739671946,674,126
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_1,6,1000/sqrt(n),CPLEX MISOCP,28.54039717,33,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,8,1000/(n),OA,1.09866786,1038,188
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_1,8,1000/sqrt(n),CPLEX MISOCP,30.62755704,33,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,10,1000/(n),OA,8.726496935,8844,654
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_1,10,1000/sqrt(n),CPLEX MISOCP,65.04492593,69,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,12,1000/(n),OA,1.368237019,1902,136
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_1,12,1000/sqrt(n),CPLEX MISOCP,130.9488091,122,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_1,200,1000/(n),OA,1.661081076,3026,123
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_1,200,1000/sqrt(n),CPLEX MISOCP,600.0032711,624,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,6,1000/(n),OA,0.132744074,141,24
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_2,6,1000/sqrt(n),CPLEX MISOCP,33.26148701,37,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,8,1000/(n),OA,0.359441042,327,59
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_2,8,1000/sqrt(n),CPLEX MISOCP,35.90125299,29,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,10,1000/(n),OA,4.187537909,6313,317
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_2,10,1000/sqrt(n),CPLEX MISOCP,278.617085,331,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,12,1000/(n),OA,0.648035049,1953,20
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_2,12,1000/sqrt(n),CPLEX MISOCP,600.0008149,775,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_2,200,1000/(n),OA,0.696787119,1716,24
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_2,200,1000/sqrt(n),CPLEX MISOCP,600.0053999,800,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,6,1000/(n),OA,0.871890068,904,158
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_3,6,1000/sqrt(n),CPLEX MISOCP,103.7145569,103,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,8,1000/(n),OA,0.670077085,818,98
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_3,8,1000/sqrt(n),CPLEX MISOCP,85.76370096,81,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,10,1000/(n),OA,2.447244883,4584,189
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_3,10,1000/sqrt(n),CPLEX MISOCP,210.90257,215,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,12,1000/(n),OA,1.707131147,3034,42
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_3,12,1000/sqrt(n),CPLEX MISOCP,600.002418,648,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_3,200,1000/(n),OA,1.209758043,2803,38
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_3,200,1000/sqrt(n),CPLEX MISOCP,600.0058169,688,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,6,1000/(n),OA,1.534833908,2096,262
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_4,6,1000/sqrt(n),CPLEX MISOCP,230.2859278,248,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,8,1000/(n),OA,2.728276968,3820,343
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_4,8,1000/sqrt(n),CPLEX MISOCP,176.1018679,194,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,10,1000/(n),OA,10.83283806,14206,647
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_4,10,1000/sqrt(n),CPLEX MISOCP,527.460026,617,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,12,1000/(n),OA,0.977159977,2332,22
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_4,12,1000/sqrt(n),CPLEX MISOCP,581.3503571,643,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_4,200,1000/(n),OA,0.859319925,2315,22
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_4,200,1000/sqrt(n),CPLEX MISOCP,592.7074909,648,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,6,1000/(n),OA,0.443790913,225,79
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_5,6,1000/sqrt(n),CPLEX MISOCP,33.59703803,31,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,8,1000/(n),OA,0.656678915,407,112
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_5,8,1000/sqrt(n),CPLEX MISOCP,35.99959993,34,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,10,1000/(n),OA,2.8587749,3577,322
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_5,10,1000/sqrt(n),CPLEX MISOCP,84.97527909,79,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,12,1000/(n),OA,135.8688622,171475,722
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_5,12,1000/sqrt(n),CPLEX MISOCP,600.0041342,686,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_5,200,1000/(n),OA,120.4103248,131127,777
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_5,200,1000/sqrt(n),CPLEX MISOCP,600.0042179,818,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,6,1000/(n),OA,7.151459932,4635,933
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_6,6,1000/sqrt(n),CPLEX MISOCP,172.2234979,199,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,8,1000/(n),OA,6.052106142,5985,777
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_6,8,1000/sqrt(n),CPLEX MISOCP,112.6302299,135,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,10,1000/(n),OA,2.641228914,2305,283
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_6,10,1000/sqrt(n),CPLEX MISOCP,82.61408114,103,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,12,1000/(n),OA,1.079838037,1934,81
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_6,12,1000/sqrt(n),CPLEX MISOCP,189.044987,211,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_6,200,1000/(n),OA,1.09727788,1737,76
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_6,200,1000/sqrt(n),CPLEX MISOCP,600.0034728,700,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,6,1000/(n),OA,0.635643005,687,122
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_7,6,1000/sqrt(n),CPLEX MISOCP,112.655123,119,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,8,1000/(n),OA,0.364716053,431,59
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_7,8,1000/sqrt(n),CPLEX MISOCP,59.56832099,65,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,10,1000/(n),OA,2.212361097,3570,216
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_7,10,1000/sqrt(n),CPLEX MISOCP,83.5090189,75,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,12,1000/(n),OA,12.03280282,15002,76
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_7,12,1000/sqrt(n),CPLEX MISOCP,600.0059259,648,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_7,200,1000/(n),OA,8.769716024,12926,72
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_7,200,1000/sqrt(n),CPLEX MISOCP,600.00526,802,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,6,1000/(n),OA,0.197440147,97,43
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_8,6,1000/sqrt(n),CPLEX MISOCP,20.54598498,19,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,8,1000/(n),OA,0.357752085,199,68
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_8,8,1000/sqrt(n),CPLEX MISOCP,32.89551783,30,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,10,1000/(n),OA,3.212913036,3635,295
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_8,10,1000/sqrt(n),CPLEX MISOCP,40.55252695,37,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,12,1000/(n),OA,96.28681207,82403,581
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_8,12,1000/sqrt(n),CPLEX MISOCP,185.1826241,200,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_8,200,1000/(n),OA,45.68306994,66786,574
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_8,200,1000/sqrt(n),CPLEX MISOCP,600.003926,964,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,6,1000/(n),OA,2.600533009,2404,390
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_9,6,1000/sqrt(n),CPLEX MISOCP,79.60721684,91,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,8,1000/(n),OA,5.623353004,5052,657
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_9,8,1000/sqrt(n),CPLEX MISOCP,108.1261079,136,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,10,1000/(n),OA,3.75551486,3582,403
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_9,10,1000/sqrt(n),CPLEX MISOCP,65.21381593,82,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,12,1000/(n),OA,1.975787163,2535,147
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_9,12,1000/sqrt(n),CPLEX MISOCP,23.70344305,23,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_9,200,1000/(n),OA,1.96163702,2473,148
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_9,200,1000/sqrt(n),CPLEX MISOCP,600.004086,675,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,6,1000/(n),OA,1.204073191,1122,226
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_10,6,1000/sqrt(n),CPLEX MISOCP,63.01133895,73,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,8,1000/(n),OA,1.620228052,1599,242
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_10,8,1000/sqrt(n),CPLEX MISOCP,56.53692102,61,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,10,1000/(n),OA,36.50835085,25449,1771
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_10,10,1000/sqrt(n),CPLEX MISOCP,179.957572,232,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,12,1000/(n),OA,3.795969009,5711,211
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_10,12,1000/sqrt(n),CPLEX MISOCP,20.48461294,25,
+Instance, cardinality, regularizer, method, solvetime, nodecount, iters
+pard200_10,200,1000/(n),OA,4.748387098,7010,230
+Instance, cardinality, regularizer, method, solvetime,,
+pard200_10,200,1000/sqrt(n),CPLEX MISOCP,600.008703,632,
+pard200_1,6,1000/sqrt(n),OA Kelley,0.842743874,416,81
+pard200_1,6,1000/sqrt(n),OA Kelley 50,5.549216032,124,18
+pard200_1,8,1000/sqrt(n),OA Kelley,1.023329973,570,110
+pard200_1,8,1000/sqrt(n),OA Kelley 50,6.726350069,244,30
+pard200_1,6,1000/sqrt(n),OA Kelley,0.765633106,416,81
+pard200_1,6,1000/sqrt(n),OA Kelley 50,5.254374027,124,18
+pard200_1,8,1000/sqrt(n),OA Kelley,0.97873807,570,110
+pard200_1,8,1000/sqrt(n),OA Kelley 50,6.224510908,244,30
+pard200_1,10,1000/sqrt(n),OA Kelley,8.575199127,6582,494
+pard200_1,10,1000/sqrt(n),OA Kelley 50,12.43775392,2838,180
+pard200_1,12,1000/sqrt(n),OA Kelley,1.051657915,1079,74
+pard200_1,12,1000/sqrt(n),OA Kelley 50,7.844136,532,29
+pard200_1,200,1000/sqrt(n),OA Kelley,1.575617075,1182,101
+pard200_1,200,1000/sqrt(n),OA Kelley 50,9.67635107,928,79
+pard200_2,6,1000/sqrt(n),OA Kelley,0.156089067,81,10
+pard200_2,6,1000/sqrt(n),OA Kelley 50,3.208418131,42,5
+pard200_2,8,1000/sqrt(n),OA Kelley,0.275088072,117,23
+pard200_2,8,1000/sqrt(n),OA Kelley 50,5.189090014,64,11
+pard200_2,10,1000/sqrt(n),OA Kelley,4.073801041,4449,243
+pard200_2,10,1000/sqrt(n),OA Kelley 50,10.61740708,2530,144
+pard200_2,12,1000/sqrt(n),OA Kelley,0.423928976,187,8
+pard200_2,12,1000/sqrt(n),OA Kelley 50,7.93563199,182,7
+pard200_2,200,1000/sqrt(n),OA Kelley,0.527754068,233,11
+pard200_2,200,1000/sqrt(n),OA Kelley 50,7.373620987,184,10
+pard200_3,6,1000/sqrt(n),OA Kelley,0.806383848,740,96
+pard200_3,6,1000/sqrt(n),OA Kelley 50,6.549299955,413,40
+pard200_3,8,1000/sqrt(n),OA Kelley,0.816020966,671,84
+pard200_3,8,1000/sqrt(n),OA Kelley 50,6.537378073,343,40
+pard200_3,10,1000/sqrt(n),OA Kelley,1.448788881,1444,90
+pard200_3,10,1000/sqrt(n),OA Kelley 50,8.278020144,840,42
+pard200_3,12,1000/sqrt(n),OA Kelley,0.782165051,923,23
+pard200_3,12,1000/sqrt(n),OA Kelley 50,7.745198965,461,9
+pard200_3,200,1000/sqrt(n),OA Kelley,0.650792122,781,21
+pard200_3,200,1000/sqrt(n),OA Kelley 50,8.675972939,416,9
+pard200_4,6,1000/sqrt(n),OA Kelley,2.314069986,1740,227
+pard200_4,6,1000/sqrt(n),OA Kelley 50,8.341530085,1529,193
+pard200_4,8,1000/sqrt(n),OA Kelley,2.818363905,3055,260
+pard200_4,8,1000/sqrt(n),OA Kelley 50,9.499891996,1740,139
+pard200_4,10,1000/sqrt(n),OA Kelley,10.82033896,11378,522
+pard200_4,10,1000/sqrt(n),OA Kelley 50,17.90270019,7912,446
+pard200_4,12,1000/sqrt(n),OA Kelley,0.319340944,272,12
+pard200_4,12,1000/sqrt(n),OA Kelley 50,7.830344915,226,11
+pard200_4,200,1000/sqrt(n),OA Kelley,0.394277811,251,12
+pard200_4,200,1000/sqrt(n),OA Kelley 50,7.651705027,206,11
+pard200_5,6,1000/sqrt(n),OA Kelley,0.405397177,147,49
+pard200_5,6,1000/sqrt(n),OA Kelley 50,5.056292057,69,15
+pard200_5,8,1000/sqrt(n),OA Kelley,0.530402899,253,65
+pard200_5,8,1000/sqrt(n),OA Kelley 50,5.71331501,93,16
+pard200_5,10,1000/sqrt(n),OA Kelley,1.761520147,1644,149
+pard200_5,10,1000/sqrt(n),OA Kelley 50,7.622868061,453,48
+pard200_5,12,1000/sqrt(n),OA Kelley,12.12501502,10701,294
+pard200_5,12,1000/sqrt(n),OA Kelley 50,18.44917083,6098,171
+pard200_5,200,1000/sqrt(n),OA Kelley,15.15715814,11960,285
+pard200_5,200,1000/sqrt(n),OA Kelley 50,17.06446505,5866,142
+pard200_6,6,1000/sqrt(n),OA Kelley,7.437287807,5148,902
+pard200_6,6,1000/sqrt(n),OA Kelley 50,16.09956384,4875,675
+pard200_6,8,1000/sqrt(n),OA Kelley,8.377869844,5885,733
+pard200_6,8,1000/sqrt(n),OA Kelley 50,12.25349402,4120,349
+pard200_6,10,1000/sqrt(n),OA Kelley,2.049068928,1172,206
+pard200_6,10,1000/sqrt(n),OA Kelley 50,7.476584196,514,107
+pard200_6,12,1000/sqrt(n),OA Kelley,0.542191029,461,37
+pard200_6,12,1000/sqrt(n),OA Kelley 50,7.175928116,409,23
+pard200_6,200,1000/sqrt(n),OA Kelley,0.739455938,799,48
+pard200_6,200,1000/sqrt(n),OA Kelley 50,8.217549086,483,32
+pard200_7,6,1000/sqrt(n),OA Kelley,0.735102892,602,97
+pard200_7,6,1000/sqrt(n),OA Kelley 50,6.770163059,291,54
+pard200_7,8,1000/sqrt(n),OA Kelley,0.324173927,207,31
+pard200_7,8,1000/sqrt(n),OA Kelley 50,7.119953871,88,16
+pard200_7,10,1000/sqrt(n),OA Kelley,1.153563976,1205,105
+pard200_7,10,1000/sqrt(n),OA Kelley 50,8.126484871,640,46
+pard200_7,12,1000/sqrt(n),OA Kelley,1.173838854,1185,20
+pard200_7,12,1000/sqrt(n),OA Kelley 50,9.167680025,725,13
+pard200_7,200,1000/sqrt(n),OA Kelley,1.320645094,1464,23
+pard200_7,200,1000/sqrt(n),OA Kelley 50,9.386127949,841,16
+pard200_8,6,1000/sqrt(n),OA Kelley,0.19175005,75,25
+pard200_8,6,1000/sqrt(n),OA Kelley 50,2.565227032,41,11
+pard200_8,8,1000/sqrt(n),OA Kelley,0.511487961,124,36
+pard200_8,8,1000/sqrt(n),OA Kelley 50,3.372277021,47,12
+pard200_8,10,1000/sqrt(n),OA Kelley,0.778338909,442,88
+pard200_8,10,1000/sqrt(n),OA Kelley 50,7.263118982,151,20
+pard200_8,12,1000/sqrt(n),OA Kelley,3.09216404,2237,171
+pard200_8,12,1000/sqrt(n),OA Kelley 50,8.714407206,1080,56
+pard200_8,200,1000/sqrt(n),OA Kelley,2.961936951,2455,160
+pard200_8,200,1000/sqrt(n),OA Kelley 50,10.20665312,1999,67
+pard200_9,6,1000/sqrt(n),OA Kelley,2.615813971,2262,338
+pard200_9,6,1000/sqrt(n),OA Kelley 50,7.751821995,1211,110
+pard200_9,8,1000/sqrt(n),OA Kelley,5.831742048,3814,540
+pard200_9,8,1000/sqrt(n),OA Kelley 50,10.1919601,2093,289
+pard200_9,10,1000/sqrt(n),OA Kelley,3.093307018,1817,259
+pard200_9,10,1000/sqrt(n),OA Kelley 50,9.533174038,754,125
+pard200_9,12,1000/sqrt(n),OA Kelley,0.524023056,296,42
+pard200_9,12,1000/sqrt(n),OA Kelley 50,7.764694929,134,10
+pard200_9,200,1000/sqrt(n),OA Kelley,1.645426035,1675,95
+pard200_9,200,1000/sqrt(n),OA Kelley 50,9.888767004,899,78
+pard200_10,6,1000/sqrt(n),OA Kelley,1.419734955,992,188
+pard200_10,6,1000/sqrt(n),OA Kelley 50,6.857808828,385,41
+pard200_10,8,1000/sqrt(n),OA Kelley,1.4833951,992,178
+pard200_10,8,1000/sqrt(n),OA Kelley 50,6.908219099,415,41
+pard200_10,10,1000/sqrt(n),OA Kelley,9.508934975,6730,833
+pard200_10,10,1000/sqrt(n),OA Kelley 50,14.27339816,4025,597
+pard200_10,12,1000/sqrt(n),OA Kelley,0.580714941,300,35
+pard200_10,12,1000/sqrt(n),OA Kelley 50,7.781355858,152,10
+pard200_10,200,1000/sqrt(n),OA Kelley,2.925538063,2085,164
+pard200_10,200,1000/sqrt(n),OA Kelley 50,11.839468,2115,117

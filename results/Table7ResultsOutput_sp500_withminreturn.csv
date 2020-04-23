@@ -1,0 +1,164 @@
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,5,1/sqrt(n),OA,0.423572063,9.61E-05,4.48E+11,262,81
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,5,1/sqrt(n),CPLEX MISOCP,16.39457297,1.18E-05,1.18E-05,40,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,5,1/sqrt(n),OA,0.696927786,9.86E-05,4.48E+11,500,162
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,5,1/sqrt(n),CPLEX MISOCP,23.72448897,2.08E-05,2.08E-05,26,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,5,1/sqrt(n),OA,2.733741045,9.16E-05,4.48E+11,1429,444
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,5,1/sqrt(n),CPLEX MISOCP,32.64917898,1.66E-05,1.66E-05,17,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,5,1/sqrt(n),OA,0.01046586,9.66E-05,4.48E+11,0,3
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,5,1/sqrt(n),CPLEX MISOCP,42.66900182,4.02E-05,4.02E-05,20,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,5,1/sqrt(n),OA,9.348779917,9.95E-05,4.48E+11,7591,790
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,5,1/sqrt(n),CPLEX MISOCP,69.08736491,3.37E-05,3.37E-05,21,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,10,1/sqrt(n),OA,0.009267092,9.82E-05,8.95E+11,0,3
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,10,1/sqrt(n),CPLEX MISOCP,73.27775002,2.90E-05,2.90E-05,210,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,10,1/sqrt(n),OA,0.016985893,9.29E-05,8.95E+11,1,4
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,10,1/sqrt(n),CPLEX MISOCP,211.6946681,2.22E-05,2.22E-05,400,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,10,1/sqrt(n),OA,2.006722927,9.98E-05,8.95E+11,972,344
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,10,1/sqrt(n),CPLEX MISOCP,339.8383629,3.13E-05,3.13E-05,420,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,10,1/sqrt(n),OA,3.967148781,9.61E-05,8.95E+11,1633,410
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,10,1/sqrt(n),CPLEX MISOCP,268.3434179,3.18E-05,3.18E-05,157,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,10,1/sqrt(n),OA,5.202422857,9.86E-05,8.95E+11,2804,450
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,10,1/sqrt(n),CPLEX MISOCP,344.9615769,3.22E-05,3.22E-05,171,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,50,1/sqrt(n),OA,0.28092289,7.65E-05,4.48E+12,108,45
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,50,1/sqrt(n),CPLEX MISOCP,78.59498096,4.79E-05,4.79E-05,499,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,50,1/sqrt(n),OA,0.184679031,8.36E-05,4.48E+12,46,30
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,50,1/sqrt(n),CPLEX MISOCP,137.062355,4.23E-05,4.23E-05,360,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,50,1/sqrt(n),OA,0.32428503,9.31E-05,4.48E+12,104,41
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,50,1/sqrt(n),CPLEX MISOCP,283.793488,3.53E-05,3.53E-05,410,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,50,1/sqrt(n),OA,0.285937071,7.85E-05,4.48E+12,62,33
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,50,1/sqrt(n),CPLEX MISOCP,265.614414,2.29E-05,2.29E-05,200,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,50,1/sqrt(n),OA,0.493069887,7.52E-05,4.48E+12,86,47
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,50,1/sqrt(n),CPLEX MISOCP,337.7066951,3.37E-05,3.37E-05,210,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,100,1/sqrt(n),OA,0.054759979,0,8.95E+12,7,7
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,100,1/sqrt(n),CPLEX MISOCP,0.969755888,5.52E-05,5.52E-05,0,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,100,1/sqrt(n),OA,0.065778971,9.74E-05,8.95E+12,1,6
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,100,1/sqrt(n),CPLEX MISOCP,13.84702086,1.59E-05,1.59E-05,20,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,100,1/sqrt(n),OA,0.064123154,0,8.95E+12,5,7
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,100,1/sqrt(n),CPLEX MISOCP,286.2139981,3.14E-05,3.14E-05,520,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,100,1/sqrt(n),OA,0.075317144,0,8.95E+12,0,6
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,100,1/sqrt(n),CPLEX MISOCP,394.9083881,3.86E-05,3.86E-05,340,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,100,1/sqrt(n),OA,0.148821115,0,8.95E+12,5,8
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,100,1/sqrt(n),CPLEX MISOCP,104.1524661,2.17E-05,2.17E-05,40,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,200,1/sqrt(n),OA,0.078850985,9.85E-05,1.79E+13,1,5
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,200,1/sqrt(n),CPLEX MISOCP,53.53558207,4.36E-05,4.36E-05,300,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,200,1/sqrt(n),OA,0.044970036,5.89E-05,1.79E+13,0,3
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank75,200,1/sqrt(n),CPLEX MISOCP,58.8628149,1.22E-05,1.22E-05,180,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,200,1/sqrt(n),OA,0.057668924,8.24E-05,1.79E+13,0,3
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,200,1/sqrt(n),CPLEX MISOCP,472.7486658,6.40E-06,6.40E-06,990,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,200,1/sqrt(n),OA,0.125520229,9.20E-05,1.79E+13,0,3
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,200,1/sqrt(n),CPLEX MISOCP,6.201963902,4.23E-06,4.23E-06,0,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,200,1/sqrt(n),OA,0.101519108,9.78E-05,1.79E+13,0,3
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,200,1/sqrt(n),CPLEX MISOCP,46.17827702,7.20E-06,7.20E-06,10,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,10,100/sqrt(n),OA,600.0499811,0.000902949,8.95E+13,70200,3855
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,10,100/sqrt(n),CPLEX MISOCP,600.0066311,0.000977759,0.000977759,1600,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,10,100/sqrt(n),OA,600.0767031,0.002583699,8.94E+13,54000,4721
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,10,100/sqrt(n),CPLEX MISOCP,600.0132511,0.002423642,0.002423642,598,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,10,100/sqrt(n),OA,600.0571649,0.003288211,8.93E+13,46723,4437
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,10,100/sqrt(n),CPLEX MISOCP,600.0017021,0.00284247,0.00284247,345,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,10,100/sqrt(n),OA,600.077163,0.004493353,8.92E+13,56100,4336
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,10,100/sqrt(n),CPLEX MISOCP,600.0135701,0.003607984,0.003607984,280,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,50,100/sqrt(n),OA,0.768509865,0.000385191,4.47E+14,309,113
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,50,100/sqrt(n),CPLEX MISOCP,268.483012,0.000317803,0.000317803,841,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,50,100/sqrt(n),OA,0.071451902,0.000422547,4.46E+14,1,7
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,50,100/sqrt(n),CPLEX MISOCP,600.0127821,0.000634486,0.000634486,600,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,50,100/sqrt(n),OA,0.088598967,0.000109807,4.46E+14,0,6
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,50,100/sqrt(n),CPLEX MISOCP,600.0026178,0.002796843,0.002796843,291,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,50,100/sqrt(n),OA,0.201151133,0,4.46E+14,1,19
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,50,100/sqrt(n),CPLEX MISOCP,600.05215,0.003535162,0.003535162,256,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,100,100/sqrt(n),OA,0.091367006,0,8.90E+14,0,8
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,100,100/sqrt(n),CPLEX MISOCP,1.660341978,0.000206175,0.000206175,0,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,100,100/sqrt(n),OA,0.125522137,0,8.88E+14,0,7
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,100,100/sqrt(n),CPLEX MISOCP,5.291703939,0.000458094,0.000458094,0,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,100,100/sqrt(n),OA,0.114411831,0,8.89E+14,0,4
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,100,100/sqrt(n),CPLEX MISOCP,600.0077429,0.002938143,0.002938143,352,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,100,100/sqrt(n),OA,0.147517204,0,8.89E+14,0,5
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,100,100/sqrt(n),CPLEX MISOCP,600.0189469,0.001943463,0.001943463,250,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,200,100/sqrt(n),OA,0.10602808,0,1.75E+15,0,4
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank50,200,100/sqrt(n),CPLEX MISOCP,15.52690887,0,0,10,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,200,100/sqrt(n),OA,0.140046835,0,1.76E+15,0,4
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank100,200,100/sqrt(n),CPLEX MISOCP,301.341568,0.000479552,0.000479552,380,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,200,100/sqrt(n),OA,0.350001097,0,1.78E+15,0,6
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank150,200,100/sqrt(n),CPLEX MISOCP,344.2943299,-0.000226476,-0.000226476,270,0
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,200,100/sqrt(n),OA,0.177529812,0,1.76E+15,0,4
+Instance, cardinality, regularizer, method, solvetime, boundgap, boundgapSOCP, nodecount, number of iterations
+rank200,200,100/sqrt(n),CPLEX MISOCP,76.80097318,-0.000349097,-0.000349097,10,0

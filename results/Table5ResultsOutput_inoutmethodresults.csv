@@ -1,0 +1,7 @@
+Instance, cardinality, regularizer, method, solvetime, gap, nodecount, iters
+beasley2,10,100/sqrt(n),OA-Kelley (50 cuts),120.002593,0.15%,72241,3366
+beasley3,5,100/sqrt(n),OA-Kelley (50 cuts),120.076647,0.08%,78947,2137
+beasley3,10,100/sqrt(n),OA-Kelley (50 cuts),120.0024941,0.21%,62839,3503
+beasley4,5,100/sqrt(n),OA-Kelley (50 cuts),120,0.37%,53782,3648
+beasley4,10,100/sqrt(n),OA-Kelley (50 cuts),120.0091701,0.29%,46700,3241
+beasley4,20,100/sqrt(n),OA-Kelley (50 cuts),120.004102,0.13%,59822,3886
