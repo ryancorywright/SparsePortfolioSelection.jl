@@ -10,6 +10,17 @@ If you run into any issues, please file them [here](https://github.com/ryancoryw
 ## A High-Level Overview
 I gave a high-level talk on this package at INFORMS 2018. The slides are available [here](https://ryancorywright.github.io/pdf/A_scalable_algorithm_talk.pdf)
 
+## Installation and set up
+
+In order to run this software, you must install a recent version of Julia from http://julialang.org/downloads/.  The most recent version of Julia at the time this code was last tested was Julia 1.2.0.
+
+A number of packages must be installed in Julia before the code can be run.  These packages are DataFrames, and StatsBase.  They can be added by running:
+
+`using Pkg' 'Pkg.add("JuMP, MathProgBase, CPLEX, Random, LinearAlgebra, Mosek, JLD, LaTeXStrings, DataFrames, Test, Suppressor, DelimitedFiles, CSV, StatsBase")` 
+
+At this point, the file "core.jl" should run successfully.
+
+
 ## Reproducing output from the paper
 You can reproduce Tables 3-9 by running the script "createTablexResults.jl", where x is the relevant table number. Note that you will need to manually change the cardinality constraint right-hand-side value (i.e. run each script seperately for k=5, 10, 20), and change the file path to point to the right file on your system. Note that all experiments were run using Julia 1.2, JuMP.jl 0.18.5, CPLEX 12.8.0 and Mosek version 9.0. More up to-date versions of Julia, CPLEX or Mosek should be fine, but the code will not work with JuMP.jl 0.19 or higher.
 
@@ -33,3 +44,13 @@ Another paper which could potentially be useful to look at is the following [pap
 ## Related packages:
 
 My colleague Jean Pauphilet has created a package which computes sparse L2-regularized efficient regressors. It is available [here](https://github.com/jeanpauphilet/SubsetSelectionCIO.jl). 
+
+## Thank you
+
+Thank you for your interest in Optimal-SPCA. Please let us know if you encounter any  issues using this code, or have comments or questions.  Feel free to email us anytime.
+
+Dimitris Bertsimas
+dbertsim@mit.edu
+
+Ryan Cory-Wright
+ryancw@mit.edu
