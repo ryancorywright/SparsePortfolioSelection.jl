@@ -47,7 +47,7 @@ My colleague Jean Pauphilet has created a package which computes sparse L2-regul
 
 ## Thank you
 
-Thank you for your interest in Optimal-SPCA. Please let us know if you encounter any  issues using this code, or have comments or questions.  Feel free to email us anytime.
+Thank you for your interest in SparsePortfolioSelection. Please let us know if you encounter any  issues using this code, or have comments or questions.  Feel free to email us anytime.
 
 Dimitris Bertsimas
 dbertsim@mit.edu
