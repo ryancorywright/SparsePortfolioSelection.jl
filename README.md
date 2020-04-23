@@ -26,7 +26,7 @@ You can reproduce Tables 3-9 by running the script "createTablexResults.jl", whe
 
 ## Citing SparsePortfolioSelection.jl
 
-If you use SparsePortfolioSelection.jl, we ask that you please cite the following [paper](https://ryancorywright.github.io/pdf/Bertsimas_CoryWright_SparsePortfolios_2018.pdf):
+If you use SparsePortfolioSelection.jl, we ask that you please cite the following [paper](https://arxiv.org/abs/1811.00138):
 ```
 @article{BCw_sparse2019,
 	title = {A scalable algorithm for sparse portfolio selection},
