@@ -1,3 +1,4 @@
+using CPLEX, JuMP
 function cplex_raw_bigM(thePortfolio::SparsePortfolioData, ΔT_max::Float64=3600, gap::Float64=1e-4, debugLevel::Int=0)
 
   master_stock_problem_cplex=Model(solver=CplexSolver(CPX_PARAM_MIQCPSTRAT=1, CPX_PARAM_TILIM=ΔT_max, CPX_PARAM_EPGAP=gap, CPX_PARAM_THREADS=1))
@@ -51,6 +52,50 @@ function cplex_raw_MISOCP(thePortfolio::SparsePortfolioData, ΔT_max::Float64=36
   numIters::Int128=0
 
   return CardinalityConstrainedPortfolio(optimalIndicies, optimalStocks[optimalIndicies], 0.0, zeros(thePortfolio.n), zeros(thePortfolio.m), zeros(thePortfolio.m),  zeros(thePortfolio.m), getobjgap(misocp_cplex), getobjgap(misocp_cplex), numIters, thePortfolio.μ'*optimalStocks, optimalStocks'*thePortfolio.X'*thePortfolio.X*optimalStocks, getsolvetime(misocp_cplex), getnodecount(misocp_cplex))
+
+end
+
+function cplex_raw_MISOCP_inout(thePortfolio::SparsePortfolioData, ΔT_max::Float64=3600, gap::Float64=1e-4, debugLevel::Int=0)
+
+
+  misocp_cplex_inout=Model(solver=CplexSolver(CPX_PARAM_MIQCPSTRAT=1, CPX_PARAM_TILIM=ΔT_max, CPX_PARAM_EPGAP=gap, CPX_PARAM_THREADS=1))
+
+  @variable(misocp_cplex_inout, z[1:thePortfolio.n], Bin) # defines whether a stock is selected (big-M)
+  @variable(misocp_cplex_inout, x[1:thePortfolio.n]>=0.0)    # defines the quantity selected for each stock (short selling is permitted)
+  @variable(misocp_cplex_inout, θ[1:thePortfolio.n]>=0.0)
+  @variable(misocp_cplex_inout, τ>=0.0)
+  @variable(misocp_cplex_inout, ofv)
+
+  @constraint(misocp_cplex_inout, socpconstraint[i=1:thePortfolio.n], θ[i]+z[i]>=norm([2.0*x[i]; θ[i]-z[i]]))
+  @constraint(misocp_cplex_inout, sum(z[i] for i=1:thePortfolio.n)<=thePortfolio.k)
+  @constraint(misocp_cplex_inout, thePortfolio.A*x.>=thePortfolio.l)
+  @constraint(misocp_cplex_inout, thePortfolio.A*x.<=thePortfolio.u)
+  @constraint(misocp_cplex_inout, minInvestment[i=1:thePortfolio.n], x[i]>=z[i]*thePortfolio.min_investment[i])
+  @constraint(misocp_cplex_inout, sumsToOne, sum(x[i] for i=1:thePortfolio.n)==1.0)
+  @constraint(misocp_cplex_inout, τ+1.0>=norm([2.0*thePortfolio.X*x;τ-1.0]))
+  @constraint(misocp_cplex_inout, ofv>=(0.5*sum(θ[i]/thePortfolio.γ[i] for i=1:thePortfolio.n)+0.5*τ-thePortfolio.μ'*x+0.5*thePortfolio.Y'*thePortfolio.Y)')
+  @objective(misocp_cplex_inout, Min, ofv)
+
+
+  # Add cuts from in-out method, to match what we do with the outer-approximation method...
+  kelleyCutPool=Cut[]
+  zSOCP=cplex_MISOCP_relaxation(thePortfolio, ΔT_max)
+  stabilizationPoint=zSOCP
+  kelleyCutPool=getKelleyPrimalCuts(thePortfolio, true, true, stabilizationPoint, 200)
+  if length(kelleyCutPool) > 0
+    for c in kelleyCutPool
+       @constraint(misocp_cplex_inout, ofv >= c.p + dot(c.∇s, z))
+    end
+  end
+  solve(misocp_cplex_inout)
+
+  optimalStocks=getvalue(x)
+
+  ofv = getobjectivevalue(misocp_cplex_inout)
+  optimalIndicies=findall(a->a>0.5, getvalue(z))
+  numIters::Int128=0
+
+  return CardinalityConstrainedPortfolio(optimalIndicies, optimalStocks[optimalIndicies], 0.0, zeros(thePortfolio.n), zeros(thePortfolio.m), zeros(thePortfolio.m),  zeros(thePortfolio.m), getobjgap(misocp_cplex_inout), getobjgap(misocp_cplex_inout), numIters, thePortfolio.μ'*optimalStocks, optimalStocks'*thePortfolio.X'*thePortfolio.X*optimalStocks, getsolvetime(misocp_cplex_inout), getnodecount(misocp_cplex_inout))
 
 end
 
